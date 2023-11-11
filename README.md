@@ -66,3 +66,6 @@ seaborn: 0.12.2
 plotly: 5.9.0
 scipy: 1.10.1
 scikit-learn: 1.3.0
+
+## Tags
+banking, classification, machine learning, deposito
